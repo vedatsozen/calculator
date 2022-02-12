@@ -1,0 +1,33 @@
+body { background:cyan; }
+
+
+#calculator {
+
+height:50px;
+width:800px;
+margin:auto;
+margin-top:100px;
+background:black;
+color:white;
+font-family:Cuprum;
+font-size:50px;
+line-height:50px;
+text-align:center;
+margin-bottom:5px;
+
+}
+
+#container {
+
+height:100px;
+width:800px;
+margin:auto;
+background:white;
+font-family:Cuprum;
+font-size:90px;
+line-height:100px;
+text-align:center;
+
+
+}
+
